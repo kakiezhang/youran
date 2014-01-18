@@ -1,0 +1,58 @@
+/**/
+*{padding:0px; margin:0px;}
+img,object,form,iframe,embed{border:none;vertical-align:middle;}
+em,cite{font-style:normal;font-weight:100;}em{float:right;}cite{float:left;}
+table{border-collapse:collapse;}
+ul,li{margin:0px;padding:0px;list-style:none;}
+label{display:block;}
+/**/
+h1,h2,h3,h4,h5{margin:0px;}
+.hover{cursor:pointer;}
+.claer{clear:both;}
+.center{text-align:center;}
+.left{text-align:left;}
+.right{text-align:right;}
+.hidden{display:none;}
+.overhidden{overflow:hidden;}
+.fleft{float:left;}
+/**/
+.w0{width:100%;}
+/**/
+.ft1{font-family:Verdana,Arial,Tahoma,宋体;}
+.ft2{font-family:微软雅黑,宋体,Arial,Verdana,arial,serif;}
+/**/
+.p1 p{margin-bottom:15px; text-indent:2em;}
+.p2 p{margin-bottom:15px;}
+.p3 p{text-indent:2em;}
+/**/
+input,textarea,selet{margin:0px;vertical-align:middle;font-size:12px;font-family:Verdana,Arial,Tahoma;}
+/**/
+.table_pedigree3{border-collapse:collapse;}
+.table_pedigree3 th{padding:5px; text-align:center; font-weight:bold; width:25%;}
+.table_pedigree3 td{padding:5px; text-align:center; width:33%;}
+
+.table_pedigree4{border-collapse:collapse;}
+.table_pedigree4 th{padding:5px; text-align:center; font-weight:bold; width:25%;}
+.table_pedigree4 td{padding:5px; text-align:center; width:25%;}
+
+.table_race{border-collapse:collapse;}
+.table_race th{padding:5px; text-align:center; font-weight:bold; background-color:#f8f8f8;}
+.table_race .th1{width:10%;}
+.table_race .th2{width:15%;}
+.table_race .th3{width:20%;}
+.table_race .th4{width:15%;}
+.table_race .th5{width:20%;}
+.table_race .th6{width:20%;}
+.table_race td{padding:5px; text-align:center;}
+
+/*QQ*/
+.SonlineBox{ width:120px;  font-size:12px;overflow:hidden; z-index:9999;}
+.SonlineBox .openTrigger{ width:30px; position:absolute; top:0px;cursor:pointer;  background:url(http://inc.dog35.cn/js/qq/image/redOpen.jpg) top center no-repeat;}
+.SonlineBox .titleBox{ width:120px; height:35px; line-height:35px; background:#cc0000 url(http://inc.dog35.cn/js/qq/image/redTitleBg.gif) top center repeat-x;}
+.SonlineBox .titleBox span{ margin-left:10px; color:#fff; font-size:14px; font-family:'微软雅黑','黑体';}
+.SonlineBox .contentBox{ width:120px; position:absolute; z-index:2; background:#fff;}
+.SonlineBox .contentBox .closeTrigger{ width:25px; height:25px; display:block; cursor:pointer;position:absolute; top:5px;right:5px;-webkit-transition:all 0.8s ease-out;}
+.SonlineBox .contentBox .closeTrigger:hover{-webkit-transform:scale(1) rotate(360deg);}
+.SonlineBox .contentBox .listBox{overflow:hidden; padding-bottom:10px;}
+.SonlineBox .contentBox .listBox .QQList{ display:block; width:90%; margin:auto; text-align:center;}
+.SonlineBox .contentBox .listBox .QQList span{line-height:25px;}
