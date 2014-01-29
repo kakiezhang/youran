@@ -5,8 +5,8 @@ $(document).ready(function(){
 	setBkgPos();
 	
 	for ( i = 0; i < nav.length; i++ ) {
-		$(nav[i]).bind( 'mouseover', mMouseOver );
-		$(nav[i]).bind( 'mouseout', mMouseOut );
+		//$(nav[i]).bind( 'mouseover', mMouseOver );
+		//$(nav[i]).bind( 'mouseout', mMouseOut );
 		$(nav[i]).bind( 'click', mClick );
 	}
 	

@@ -78,7 +78,7 @@ textarea{border:1px #ddd solid;background:#fff; padding:5px; margin-top:2px; mar
 .fb_inpt2{ width:500px; height:90px; margin-top:2px; margin-bottom:2px;}
 .fb_bnt1{cursor:pointer; width:68px; height:26px; background:url(images/bnt1.gif) center no-repeat; border:0px; margin-top:15px;}
 /**/
-.line1{ border-bottom:1px #A4CCE7 solid; border-top:1px #A4CCE7 solid; margin-top:30px;}
+.line1{ border-bottom:1px #A4CCE7 solid; /*border-top:1px #A4CCE7 solid;*/ margin-top:30px;}
 /**/
 .end{padding-top:20px; padding-bottom:20px; line-height:1.7; text-align:center; color:#B1C5D5}
 /**/
