@@ -3,6 +3,7 @@ var nav  = [ '#about', '#lastest', '#dogs', '#breeding', '#contact' ];
 
 $(document).ready(function(){
 	setBkgPos();
+	$(nav[0]).css({backgroundPosition: '0px 25px'});
 	
 	for ( i = 0; i < nav.length; i++ ) {
 		//$(nav[i]).bind( 'mouseover', mMouseOver );
